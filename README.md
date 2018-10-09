@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Royal Cuevas and Amelia Roseto**
 
 ## Specification
 
@@ -24,7 +24,7 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**Biggest thing that I learned was that Jupyter is picky. If you run a cell even if it fails it can mess with the lists you've created.**
 
 ## Honor Pledge
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Royal Cuevas**
